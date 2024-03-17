@@ -12,7 +12,6 @@
 #ifndef __SHA_3__
 #define __SHA_3__
 
-
 // Remove these while using gcc:
 #include "stdbool.h"
 #include "stdint.h"
