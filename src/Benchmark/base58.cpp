@@ -6,7 +6,7 @@
 #include <array>
 #include <vector>
 
-#include <benchmark/bench.hpp>
+#include <benchmark/benchmark.hpp>
 #include <base58.hpp>
 
 
